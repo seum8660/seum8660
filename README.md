@@ -19,14 +19,38 @@
 
 ## 🚀 공개 저장소
 
-| 저장소 | 설명 | 바로가기 |
-| --- | --- | --- |
-| **simple_edu**<br>간단 업무치트키 | 학교 시설업무 담당자를 위한 브라우저 기반 도구 모음 — **얼마니**(설계비·감리비·부대비 산출), **현장이**(현장사진 기록·사진대장), **기상이**(기상자료 기반 작업불능일 집계), **정산이**(준공 후 정산서류 작성). 엑셀 내보내기·PDF 인쇄·파일 저장/불러오기 지원 | [열기](https://seum8660.github.io/simple_edu/) · [저장소](https://github.com/seum8660/simple_edu) |
-| **educost**<br>공사내역서 간단 작성기 | 적산 프로그램의 설계내역서 엑셀을 브라우저에서 바로 편집·검토하는 도구 — 일위대가 호표·단가 수정 시 전체 자동 재계산, 수량 누락·끊긴 수식·요율 이상·재료비 단가 자동 검사, 이전 내역서 병렬 비교. 작업은 브라우저에만 저장되며 암호화(AES-256-GCM) 파일 저장 지원 | [열기](https://seum8660.github.io/educost/) · [저장소](https://github.com/seum8660/educost) |
-| **gongsagigan**<br>공사기간 산출 대시보드 | 공공 건설공사 적정 공사기간을 **표준품셈 방식**과 **시설물별 산정공식** 두 가지로 산정·비교 — 착공예정일·관측지점 입력 시 기상자료 기반 월별 비작업일수 자동 계산, 기상청 API 연동, 조건별 기준값 수정, A4 인쇄 조판 | [열기](https://seum8660.github.io/gongsagigan/) · [저장소](https://github.com/seum8660/gongsagigan) |
-| **workflow**<br>학교시설업무 워크플로우 | 계획부터 준공·사용승인까지 학교시설사업 26개 업무 절차를 주체별 레인·단계별로 시각화한 워크플로우 보드 (검색·상세 패널 지원) | [열기](https://seum8660.github.io/workflow/) · [저장소](https://github.com/seum8660/workflow) |
-| **school_bible**<br>학교시설 BIBLE | 학교시설 업무 매뉴얼·지침 요약과 시설공사 원가계산 제비율 요율표를 모은 실무 통합 대시보드 | [열기](https://seum8660.github.io/school_bible/) · [저장소](https://github.com/seum8660/school_bible) |
-| **pumsem**<br>표준품셈 검색 | 건설공사 표준품셈 항목을 검색·조회하는 웹 앱 | [저장소](https://github.com/seum8660/pumsem) |
+### 🧮 간단 업무치트키 · `simple_edu`
+학교 시설업무 담당자를 위한 브라우저 기반 도구 모음입니다.
+**얼마니**(설계비·감리비·부대비 산출), **현장이**(현장사진 기록·사진대장), **기상이**(기상자료 기반 작업불능일 집계), **정산이**(준공 후 정산서류 작성) — 엑셀 내보내기·PDF 인쇄·파일 저장/불러오기 지원
+
+🔗 [바로 열기](https://seum8660.github.io/simple_edu/) · [저장소](https://github.com/seum8660/simple_edu)
+
+### 📑 공사내역서 간단 작성기 · `educost`
+적산 프로그램의 설계내역서 엑셀을 브라우저에서 바로 편집·검토하는 도구입니다.
+일위대가 호표·단가 수정 시 전체 자동 재계산, 수량 누락·끊긴 수식·요율 이상·재료비 단가 자동 검사, 이전 내역서 병렬 비교 — 작업은 브라우저에만 저장되며 암호화(AES-256-GCM) 파일 저장 지원
+
+🔗 [바로 열기](https://seum8660.github.io/educost/) · [저장소](https://github.com/seum8660/educost)
+
+### 📅 공사기간 산출 대시보드 · `gongsagigan`
+공공 건설공사 적정 공사기간을 **표준품셈 방식**과 **시설물별 산정공식** 두 가지로 산정·비교합니다.
+착공예정일·관측지점 입력 시 기상자료 기반 월별 비작업일수 자동 계산, 기상청 API 연동, 조건별 기준값 수정, A4 인쇄 조판
+
+🔗 [바로 열기](https://seum8660.github.io/gongsagigan/) · [저장소](https://github.com/seum8660/gongsagigan)
+
+### 🗺️ 학교시설업무 워크플로우 · `workflow`
+계획부터 준공·사용승인까지 학교시설사업 26개 업무 절차를 주체별 레인·단계별로 시각화한 워크플로우 보드입니다. (검색·상세 패널 지원)
+
+🔗 [바로 열기](https://seum8660.github.io/workflow/) · [저장소](https://github.com/seum8660/workflow)
+
+### 📚 학교시설 BIBLE · `school_bible`
+학교시설 업무 매뉴얼·지침 요약과 시설공사 원가계산 제비율 요율표를 모은 실무 통합 대시보드입니다.
+
+🔗 [바로 열기](https://seum8660.github.io/school_bible/) · [저장소](https://github.com/seum8660/school_bible)
+
+### 🔍 표준품셈 검색 · `pumsem`
+건설공사 표준품셈 항목을 검색·조회하는 웹 앱입니다.
+
+🔗 [저장소](https://github.com/seum8660/pumsem)
 
 ---
 
